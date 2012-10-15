@@ -11,3 +11,6 @@ Gemfile.lock
 # YARD
 .yardoc
 yardoc/
+
+# Ignore IDE
+/.idea
